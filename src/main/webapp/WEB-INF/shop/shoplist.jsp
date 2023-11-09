@@ -13,7 +13,7 @@
 </head>
 <body>
 	안녕하세요
-	<br>오늘은 젠킨스 CI/CD 파이프라인 구축할 예정입니다.
+	<br>오늘은 젠킨스 CI/CD 파이프라인 구축할 예정입니다.day1109
 	<br>
 	<img alt="" src="../빵빵이증명사진.jpg" style="width: 200px;">
 
